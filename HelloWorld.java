@@ -4,7 +4,7 @@ public class HelloWorld {
 	String printStr;
 	
 	public HelloWorld(){
-		printStr = "HelloWorld!";
+		printStr = "Hello World!";
 	}
 	
 	public String printString(){
